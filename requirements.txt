@@ -1,0 +1,12 @@
+pytest
+fastapi
+uvicorn
+openai
+ffmpeg
+PyMuPDF
+PyPDF2  
+python-multipart
+pymongo
+python-dotenv
+Pillow
+pytest-mock
